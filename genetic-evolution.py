@@ -158,7 +158,7 @@ def main():
     """
     Reading from the input file
     """ 
-    with open("path\\to\\your\\input.txt", "r") as input_file:
+    with open("C:\\Users\mirub\OneDrive\Documente\FMI\Anul II\Semestrul II\Algoritmi avansati\Algoritmi aproximativi si algoritmi genetici\Algoritmi Genetici\\input.txt", "r") as input_file:
         content = input_file.readlines()
 
     """
